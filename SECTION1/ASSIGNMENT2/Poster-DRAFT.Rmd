@@ -6,7 +6,7 @@ author:
   - name: Team Member2
     affil: 1
   - name: Team Member3
-    affil: 1
+    affil: Grant Baum
   - name: Team Member4 and so forth
     affil: 1
 affiliation:
@@ -16,9 +16,9 @@ affiliation:
 #   address: Some other affiliation
 column_numbers: 3
 font_family: Helvetica
-primary_colour: "#2774AE"
-secondary_colour: "#FFD100"
-accent_colour: "#003B5C"
+primary_colour: "#808080"
+secondary_colour: "#bf4040"
+accent_colour: "#f90606"
 logoright_name: https&#58;//raw.githubusercontent.com/brentthorne/posterdown/master/images/betterhexlogo.png
 logoleft_name: http&#58;//www.firststar.org/wp-content/uploads/2015/02/ucla1.jpg
 
